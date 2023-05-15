@@ -11,4 +11,5 @@ What is the average amount of debt owed by countries across different debt indic
 The first line of code connects us to the international_debt database where the table international_debt is residing. Let's first SELECT all of the columns from the international_debt table. Also, we'll limit the output to the first ten rows to keep the output clean.
 
 
-<img width="458" alt="debt" src="https://github.com/Dammie56/International-Debt-Statistics/assets/112485494/ee24e867-7572-47a0-a875-ae7f2b8e9069">
+<img width="458" alt="image" src="https://github.com/Dammie56/International-Debt-Statistics/assets/112485494/d60825f0-bd89-4adf-80b6-10022d403d60">
+
